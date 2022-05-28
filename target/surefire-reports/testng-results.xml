@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14618" started-at="2022-05-28T16:54:49 IST" finished-at="2022-05-28T16:55:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14618" started-at="2022-05-28T16:54:49 IST" finished-at="2022-05-28T16:55:04 IST">
+      <class name="pk_spreecom.NewTest">
+        <test-method status="PASS" signature="sanityTest()[pri:0, instance:pk_spreecom.NewTest@148080bb]" name="sanityTest" duration-ms="3" started-at="2022-05-28T16:54:58 IST" finished-at="2022-05-28T16:54:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sanityTest -->
+      </class> <!-- pk_spreecom.NewTest -->
+      <class name="pk_spreecom.Retrieve_a_Country">
+        <test-method status="PASS" signature="Get_Default_Country()[pri:0, instance:pk_spreecom.Retrieve_a_Country@dc24521]" name="Get_Default_Country" duration-ms="1287" started-at="2022-05-28T16:54:58 IST" finished-at="2022-05-28T16:54:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Default_Country -->
+      </class> <!-- pk_spreecom.Retrieve_a_Country -->
+      <class name="pk_spreecom.List_all_Countries">
+        <test-method status="PASS" signature="Get_Default_Country()[pri:0, instance:pk_spreecom.List_all_Countries@10bdf5e5]" name="Get_Default_Country" duration-ms="1894" started-at="2022-05-28T16:54:59 IST" finished-at="2022-05-28T16:55:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Default_Country -->
+      </class> <!-- pk_spreecom.List_all_Countries -->
+      <class name="pk_spreecom.Create_Address_UsingFile1">
+        <test-method status="PASS" signature="oAuth_Token()[pri:0, instance:pk_spreecom.Create_Address_UsingFile1@55d56113]" name="oAuth_Token" is-config="true" duration-ms="8628" started-at="2022-05-28T16:54:49 IST" finished-at="2022-05-28T16:54:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oAuth_Token -->
+        <test-method status="PASS" signature="CreateAddress()[pri:0, instance:pk_spreecom.Create_Address_UsingFile1@55d56113]" name="CreateAddress" duration-ms="2717" started-at="2022-05-28T16:55:01 IST" finished-at="2022-05-28T16:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAddress -->
+      </class> <!-- pk_spreecom.Create_Address_UsingFile1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
