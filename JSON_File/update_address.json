@@ -1,0 +1,14 @@
+{
+  "address": {
+    "firstname": "Swati",
+    "lastname": "Negi",
+    "company": "Paper Street Soap Co.",
+    "address1": "SS Coralwood",
+    "address2": "Kotdwara",
+    "city": "Qethesda",
+    "phone": "3488545445002",
+    "zipcode": "90210",
+    "state_name": "CA",
+    "country_iso": "US"
+  }
+}

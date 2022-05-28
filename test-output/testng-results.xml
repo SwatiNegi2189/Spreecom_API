@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T15:51:09 IST" name="Default suite" finished-at="2022-05-28T15:51:12 IST" duration-ms="3677">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T15:51:09 IST" name="Default test" finished-at="2022-05-28T15:51:12 IST" duration-ms="3677">
+      <class name="pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction">
+        <test-method is-config="true" signature="Creating_Report()[pri:0, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:09 IST" name="Creating_Report" finished-at="2022-05-28T15:51:09 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Creating_Report -->
+        <test-method signature="getDefaultCountry()[pri:1, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:09 IST" name="getDefaultCountry" finished-at="2022-05-28T15:51:11 IST" duration-ms="2278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDefaultCountry -->
+        <test-method is-config="true" signature="TestResult(org.testng.ITestResult)[pri:0, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:11 IST" name="TestResult" finished-at="2022-05-28T15:51:11 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getDefaultCountry status=SUCCESS method=Retrieve_a_Country_UsingExtentReport_UtilityFunction.getDefaultCountry()[pri:1, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestResult -->
+        <test-method signature="getCountry()[pri:2, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:11 IST" name="getCountry" finished-at="2022-05-28T15:51:12 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountry -->
+        <test-method is-config="true" signature="TestResult(org.testng.ITestResult)[pri:0, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:12 IST" name="TestResult" finished-at="2022-05-28T15:51:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getCountry status=SUCCESS method=Retrieve_a_Country_UsingExtentReport_UtilityFunction.getCountry()[pri:2, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestResult -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction@429bffaa]" started-at="2022-05-28T15:51:12 IST" name="afterTest" finished-at="2022-05-28T15:51:12 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pk_spreecom.Retrieve_a_Country_UsingExtentReport_UtilityFunction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
